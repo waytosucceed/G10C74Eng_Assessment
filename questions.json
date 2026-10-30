@@ -1,0 +1,539 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+ 
+  {
+    "heading": "Semantic Fields and Lexical Chains",
+    "questions": [
+      {
+        "questionNo": 1,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "In Passage 3, the narrator describes the horse as \"flighty, timid, delicate in eating, of tender health\". Which label correctly names the semantic field these words build?",
+        "options": [
+          {
+            "text": "Food"
+          },
+          {
+            "text": "Fragility and nervousness"
+          },
+          {
+            "text": "Wealth"
+          },
+          {
+            "text": "Speed"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 2,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Advik says the semantic field in Passage 3 makes the horse seem like a burden to travel with. Mihir says it makes the horse seem like the perfect travelling companion.<br>Who is correct?",
+        "options": [
+          {
+            "text": "Only Mihir, because a fine lady would make a pleasant companion."
+          },
+          {
+            "text": "Both, because the horse is described as both valuable and troublesome."
+          },
+          {
+            "text": "Neither, because Passage 3 contains no semantic field."
+          },
+          {
+            "text": "Only Advik, because the field of fragility and nervousness shows the horse would add to the traveller's troubles."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 3,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "In Passage 4, the narrator writes \"one child after another\" and then \"one after another\". Which type of link in a lexical chain is this?",
+        "options": [
+          {
+            "text": "Repetition, because the same words are used again"
+          },
+          {
+            "text": "Synonym, because two different words share the same meaning"
+          },
+          {
+            "text": "Related word, because one word is formed from the other"
+          },
+          {
+            "text": "A competing semantic field, because two fields clash"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 4,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Saanvi traced how the narrator refers to his sleeping-bag across Passages 1 and 2: \"this child of my invention\" → \"the sack\" → \"a sort of long roll or sausage\" → \"the thing\". What does this lexical chain do?",
+        "options": [
+          {
+            "text": "It builds a semantic field of food."
+          },
+          {
+            "text": "It shows the narrator owns four different sleeping-bags."
+          },
+          {
+            "text": "It follows one object under different names, keeping the reader's attention on the sleeping-bag."
+          },
+          {
+            "text": "It repeats the exact same word each time."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 5,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Passage 2 describes the sack as \"commodious\", \"warm and dry\" and having \"luxurious turning room\". Which answer correctly identifies the semantic field and its effect?",
+        "options": [
+          {
+            "text": "A field of comfort, which makes the sack seem cosy and inviting"
+          },
+          {
+            "text": "A field of danger, which makes the sack seem threatening"
+          },
+          {
+            "text": "A field of poverty, which makes the sack seem cheap and poor"
+          },
+          {
+            "text": "A field of weather, which makes the sack seem cold and wet"
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Imagery in Depth: Vehicle, Tenor and Mixed Metaphors",
+    "questions": [
+      {
+        "questionNo": 6,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "In Passage 3, the narrator writes: \"a horse is a fine lady among animals\". Which answer correctly identifies the tenor and the vehicle?",
+        "options": [
+          {
+            "text": "Tenor: a fine lady; Vehicle: a horse"
+          },
+          {
+            "text": "Tenor: animals; Vehicle: a horse"
+          },
+          {
+            "text": "Tenor: a horse; Vehicle: a galley-slave"
+          },
+          {
+            "text": "Tenor: a horse; Vehicle: a fine lady"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 7,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "The teacher asked the class to explain the ground of the comparison \"a horse is a fine lady among animals\". Which answer is correct?",
+        "options": [
+          {
+            "text": "Both are female."
+          },
+          {
+            "text": "Both are very strong and tough."
+          },
+          {
+            "text": "Both are delicate, easily upset and need careful looking after."
+          },
+          {
+            "text": "Both are cheap and easy to keep."
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "In Passage 3, the narrator says that with a horse \"you are chained to your brute as to a fellow galley-slave\". Which answer correctly describes this image and its effect?",
+        "options": [
+          {
+            "text": "A metaphor suggesting the horse is the traveller's loyal friend"
+          },
+          {
+            "text": "A simile suggesting that travelling with a horse is like forced, endless captivity, because you can never leave it alone"
+          },
+          {
+            "text": "A simile showing that the narrator once worked on a ship"
+          },
+          {
+            "text": "A mixed metaphor, because horses and slaves cannot exist together"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 9,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "At the end of Passage 5, the narrator calls Modestine \"an appurtenance of my mattress, or self-acting bedstead on four castors\". What does this vehicle suggest about her?",
+        "options": [
+          {
+            "text": "That she is lazy and sleeps all day"
+          },
+          {
+            "text": "That the sack itself has wheels"
+          },
+          {
+            "text": "That he loves her more than anything he owns"
+          },
+          {
+            "text": "That she is simply a piece of equipment for carrying his bed, which is a humorous way to describe her"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 10,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Three students wrote about the image \"a sort of long roll or sausage\" in Passage 1:<br><i>Pari</i>: \"Stevenson compares the sausage (tenor) to the sack (vehicle), which shows the sausage is very large.\"<br><i>Rafael</i>: \"Stevenson uses a mixed metaphor, because a sack and a sausage cannot exist together, which confuses the reader.\"<br><i>Tejas</i>: \"Stevenson compares the sack (tenor) to a sausage (vehicle). Like a sausage, the sack is a long, stuffed roll, which helps the reader picture its shape and adds a touch of humour.\"<br>Which response correctly analyses the image?",
+        "options": [
+          {
+            "text": "Tejas's response"
+          },
+          {
+            "text": "Pari's response"
+          },
+          {
+            "text": "Rafael's response"
+          },
+          {
+            "text": "None of the three responses"
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Reading for Information",
+    "questions": [
+      {
+        "questionNo": 11,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Zainab skimmed all five passages before looking at the questions. What is the text mainly about?",
+        "options": [
+          {
+            "text": "A long journey on horseback through the mountains"
+          },
+          {
+            "text": "A horse race held in Monastier market-place"
+          },
+          {
+            "text": "The narrator's sleeping-sack, why he chose a donkey to carry it, and how he bought her"
+          },
+          {
+            "text": "A children's game of riding animals at a fair"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 12,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Hiro scanned the text to find out how much the sleeping-sack cost. What did it cost?",
+        "options": [
+          {
+            "text": "Sixty-five francs and a glass of brandy"
+          },
+          {
+            "text": "Eighty francs and two glasses of beer"
+          },
+          {
+            "text": "Six francs and a glass of beer"
+          },
+          {
+            "text": "Thirty francs"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 13,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "According to Passage 4, who sold the donkey to the narrator?",
+        "options": [
+          {
+            "text": "Father Adam"
+          },
+          {
+            "text": "Modestine"
+          },
+          {
+            "text": "A deputation of the narrator's friends"
+          },
+          {
+            "text": "A saddler in Monastier"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 14,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "Amelie read this question: \"What was the inside of the sleeping-sack lined with?\" Which answer is correct?",
+        "options": [
+          {
+            "text": "Green waterproof cart-cloth"
+          },
+          {
+            "text": "A fur cap"
+          },
+          {
+            "text": "The narrator's waterproof coat"
+          },
+          {
+            "text": "Blue sheep's fur"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 15,
+        "story": "<b>Travels with a Donkey in the Cévennes</b><br>by Robert Louis Stevenson<br><br><b>Passage 1</b><br>This child of my invention was nearly six feet square, exclusive of two triangular flaps to serve as a pillow by night and as the top and bottom of the sack by day. I call it 'the sack,' but it was never a sack by more than courtesy: only a sort of long roll or sausage, green waterproof cart-cloth without and blue sheep's fur within.<br><br><b>Passage 2</b><br>It was commodious as a valise, warm and dry for a bed. There was luxurious turning room for one; and at a pinch the thing might serve for two. I could bury myself in it up to the neck; for my head I trusted to a fur cap, with a hood to fold down over my ears and a band to pass under my nose like a respirator; and in case of heavy rain I proposed to make myself a little tent, or tentlet, with my waterproof coat, three stones, and a bent branch.<br><br><b>Passage 3</b><br>It will readily be conceived that I could not carry this huge package on my own, merely human, shoulders. It remained to choose a beast of burden. Now, a horse is a fine lady among animals, flighty, timid, delicate in eating, of tender health; he is too valuable and too restive to be left alone, so that you are chained to your brute as to a fellow galley-slave; a dangerous road puts him out of his wits; in short, he's an uncertain and exacting ally, and adds thirty-fold to the troubles of the voyager. What I required was something cheap and small and hardy, and of a stolid and peaceful temper; and all these requisites pointed to a donkey.<br><br><b>Passage 4</b><br>There dwelt an old man in Monastier, of rather unsound intellect according to some, much followed by street-boys, and known to fame as Father Adam. Father Adam had a cart, and to draw the cart a diminutive she-ass, not much bigger than a dog, the colour of a mouse, with a kindly eye and a determined under-jaw. There was something neat and high-bred, a Quakerish elegance, about the rogue that hit my fancy on the spot. Our first interview was in Monastier market-place. To prove her good temper, one child after another was set upon her back to ride, and one after another went head over heels into the air; until a want of confidence began to reign in youthful bosoms, and the experiment was discontinued from a dearth of subjects.<br><br><b>Passage 5</b><br>I was already backed by a deputation of my friends; but as if this were not enough, all the buyers and sellers came round and helped me in the bargain; and the ass and I and Father Adam were the centre of a hubbub for near half an hour. At length she passed into my service for the consideration of sixty-five francs and a glass of brandy. The sack had already cost eighty francs and two glasses of beer; so that Modestine, as I instantly baptised her, was upon all accounts the cheaper article. Indeed, that was as it should be; for she was only an appurtenance of my mattress, or self-acting bedstead on four castors.",
+        "question": "After reading Passage 4, Dhruv was asked what the donkey looked like. Which answer gives the facts correctly?",
+        "options": [
+          {
+            "text": "She had an eye and a jaw."
+          },
+          {
+            "text": "She was large and black, with fierce eyes."
+          },
+          {
+            "text": "She was small, not much bigger than a dog, mouse-coloured, with a kindly eye and a determined jaw."
+          },
+          {
+            "text": "She pulled Father Adam's cart."
+          }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Topic 4: Unseen Poetry Part 1: Speaker and Turn",
+    "questions": [
+      {
+        "questionNo": 16,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Who is the speaker of the poem?",
+        "options": [
+          {
+            "text": "A passenger on a train, describing what can be seen from the window"
+          },
+          {
+            "text": "The train driver, steering the engine"
+          },
+          {
+            "text": "The child gathering brambles"
+          },
+          {
+            "text": "The tramp standing by the road"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 17,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Ines wrote: \"Stevenson sees a tramp who stands and gazes.\"<br>Her teacher said the sentence contains a mistake. What is it?",
+        "options": [
+          {
+            "text": "The tramp is running, not standing."
+          },
+          {
+            "text": "It refers to \"Stevenson\" instead of \"the speaker\", confusing the poet with the voice in the poem."
+          },
+          {
+            "text": "There is no tramp in the poem."
+          },
+          {
+            "text": "The tramp is riding on the train."
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 18,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Which description of the speaker's voice is correct?",
+        "options": [
+          {
+            "text": "Confessional, because the speaker reveals deep personal secrets"
+          },
+          {
+            "text": "Confessional in stanza 1 and observational in stanza 2"
+          },
+          {
+            "text": "There is no speaker, so there is no voice"
+          },
+          {
+            "text": "Observational, because the speaker looks outward and describes the scenes rushing past"
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 19,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Quentin was asked where the poem changes direction. At which line does the turn come?",
+        "options": [
+          {
+            "text": "Line 3"
+          },
+          {
+            "text": "Line 6"
+          },
+          {
+            "text": "Line 9"
+          },
+          {
+            "text": "Line 14"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 20,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "What does the final line, \"Each a glimpse and gone for ever!\", add to the poem?",
+        "options": [
+          {
+            "text": "It sums up the speed of the journey: every sight is seen for a moment and then lost."
+          },
+          {
+            "text": "It shows that the train has stopped at a station."
+          },
+          {
+            "text": "It shows that the speaker gets off to explore the mill."
+          },
+          {
+            "text": "It shows that nothing outside has changed."
+          }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Unseen Poetry Part 2",
+    "questions": [
+      {
+        "questionNo": 21,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Yara read line 2 aloud: \"Bridges and houses, hedges and ditches\". The hard \"b\" and \"d\" sounds belong to which sound family?",
+        "options": [
+          {
+            "text": "Liquids"
+          },
+          {
+            "text": "Plosives"
+          },
+          {
+            "text": "Sibilants"
+          },
+          {
+            "text": "Vowel sounds (assonance)"
+          }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 22,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "What is the rhyme scheme of lines 1–4?",
+        "options": [
+          {
+            "text": "ABAB"
+          },
+          {
+            "text": "ABBA"
+          },
+          {
+            "text": "AABB"
+          },
+          {
+            "text": "There is no rhyme"
+          }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 23,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "The whole poem is written in rhyming couplets with a quick, regular beat. What effect does this create?",
+        "options": [
+          {
+            "text": "It creates a slow, sad mood of loss."
+          },
+          {
+            "text": "It creates silence and stillness."
+          },
+          {
+            "text": "It shows that the poem has no pattern."
+          },
+          {
+            "text": "It imitates the fast, steady rhythm of a train's wheels, giving a sense of speed."
+          }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 24,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Lakshmi was looking for a caesura: a pause in the middle of a line. In which of these lines is there a caesura?",
+        "options": [
+          {
+            "text": "Line 7"
+          },
+          {
+            "text": "Line 4"
+          },
+          {
+            "text": "Line 6"
+          },
+          {
+            "text": "Line 13"
+          }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 25,
+        "story": "<b>From a Railway Carriage</b><br>by Robert Louis Stevenson<br><br>Faster than fairies, faster than witches,<br>Bridges and houses, hedges and ditches;<br>And charging along like troops in a battle,<br>All through the meadows the horses and cattle:<br>All of the sights of the hill and the plain<br>Fly as thick as driving rain;<br>And ever again, in the wink of an eye,<br>Painted stations whistle by.<br><br>Here is a child who clambers and scrambles,<br>All by himself and gathering brambles;<br>Here is a tramp who stands and gazes;<br>And there is the green for stringing the daisies!<br>Here is a cart run away in the road<br>Lumping along with man and load;<br>And here is a mill and there is a river:<br>Each a glimpse and gone for ever!",
+        "question": "Which pair of lines is joined by enjambment, where a sentence runs on with no punctuation at the end of the first line?",
+        "options": [
+          {
+            "text": "Lines 1–2"
+          },
+          {
+            "text": "Lines 5–6"
+          },
+          {
+            "text": "Lines 2–3"
+          },
+          {
+            "text": "Lines 7–8"
+          }
+        ],
+        "answer": 1
+      }
+    ]
+  }
+
+
+
+
+
+                 
+      
+  ]
+}
